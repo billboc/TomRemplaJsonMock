@@ -12,8 +12,8 @@
     }
   },
   "Remplacement": {
-    "latitude": {"int"},
-    "longitude": {"int"},
+    "latitude": {"int": {}},
+    "longitude": {"int": {}},
     "description": { "string": {} },
     "type": { "string": {} },
     "photo": {"regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"}
