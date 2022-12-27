@@ -15,7 +15,7 @@
     "latitude": {"int": { "min": 0, "max": 1000000 } },
     "longitude": {"int": { "min": 0, "max": 1000000 } },
     "description": { "string": {} },
-    "type": { "string": {} },
+    "categories": { "string": {} },
     "photo": {"regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"}
   }
 }
